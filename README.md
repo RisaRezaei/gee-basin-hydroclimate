@@ -3,6 +3,7 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-34A853?logo=googleearth&logoColor=white)](https://code.earthengine.google.com)
 [![Data](https://img.shields.io/badge/data-ERA5--Land%20%7C%20MODIS%20%7C%20GRACE-0B5394)](https://developers.google.com/earth-engine/datasets)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23646375.svg)](https://doi.org/10.5281/zenodo.23646375)
 
 One script, one tidy table: **monthly precipitation, evaporation, evapotranspiration, air and land-surface temperature, and GRACE terrestrial water storage** averaged over any river basin. It's ready for water-balance analysis, drought studies or hydrological model forcing.
 
@@ -57,6 +58,12 @@ Months without data for a variable (for example the GRACE / GRACE-FO gap from mi
 - MODIS ET: [`MODIS/061/MOD16A2GF`](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD16A2GF) · LST: [`MODIS/061/MOD11A2`](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2)
 - GRACE mascons: [`NASA/GRACE/MASS_GRIDS_V04/MASCON`](https://developers.google.com/earth-engine/datasets/catalog/NASA_GRACE_MASS_GRIDS_V04_MASCON)
 - HydroBASINS: [`WWF/HydroSHEDS/v1/Basins`](https://developers.google.com/earth-engine/datasets/catalog/WWF_HydroSHEDS_v1_Basins_hybas_4)
+
+## Cite this tool
+
+Abbasalizadehrezaei, P. (2026). *Basin Hydroclimate Time Series* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23646375
+
+GitHub also offers a ready-made citation under **Cite this repository** (from [CITATION.cff](CITATION.cff)).
 
 ## Author
 

@@ -10,5 +10,6 @@ authors:
 repository-code: "https://github.com/RisaRezaei/gee-basin-hydroclimate"
 url: "https://risarezaei.github.io/tool.html?r=gee-basin-hydroclimate"
 license: MIT
+doi: "10.5281/zenodo.23646375"
 version: 1.0.0
 date-released: "2026-10-25"
